@@ -1,0 +1,340 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341f70c621778da438579b141471404b, type: 3}
+  m_Name: BookCollection
+  m_EditorClassIdentifier: 
+  bookInfors:
+  - songID: 0
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: d105a78a4d06da24aa8d64dc6db099b4, type: 3}
+  - songID: 1
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: d44a0d5fb0937a446a3c494a2479bbd0, type: 3}
+  - songID: 2
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 2528bf5d812739541af2c590ee5eb1e6, type: 3}
+  - songID: 3
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 1a7dfe8a116807f4f9106fbe9e327984, type: 3}
+  - songID: 4
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 439233011b770684ba75ce0728dbc6f1, type: 3}
+  - songID: 5
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: fa202a726fe2c4146959ea14f92aa255, type: 3}
+  - songID: 6
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: f3ad46a7367732042ab377a78bf47f33, type: 3}
+  - songID: 7
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: dda91fd1a840d0447992dd1cde1e93b3, type: 3}
+  - songID: 8
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 29ae4cfadaa7b6e43bfb57985ca00d6f, type: 3}
+  - songID: 9
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 4831618b88232f94487d0bf099714097, type: 3}
+  - songID: 10
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: c3418e15f7d0fc347ad1fbfff9ef310e, type: 3}
+  - songID: 11
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 6ab7de45a00ff9a4db36ebed9b34bca3, type: 3}
+  - songID: 12
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: b20b13e85af46ee4ba9935547391efac, type: 3}
+  - songID: 13
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 7500faa226a32cb46a34fef815c9a386, type: 3}
+  - songID: 14
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: c272675b67c546847a8f7bb15fa3da4a, type: 3}
+  - songID: 15
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 517b3d58fe64b4a4d91558dbf6e6edfb, type: 3}
+  - songID: 16
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: b968ea9095253ee4d91ed0419d0ace7e, type: 3}
+  - songID: 17
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 5584cc86b101eb244addcaea4c3f8536, type: 3}
+  - songID: 18
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: cc1c0926f53c27c4daeee762f2273877, type: 3}
+  - songID: 19
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: c8e57baf4ef8c22448f63aa08b988673, type: 3}
+  - songID: 20
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: cf967abcb7f22b540b6f6d4b0ceda4c6, type: 3}
+  - songID: 21
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: f0075adc7dc64d742a379aaa6e028b93, type: 3}
+  - songID: 22
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: cdb341b0cbc3787479426869f79041d5, type: 3}
+  - songID: 23
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: d4d0dc2ab2a4e314e8e446bd0a5c050c, type: 3}
+  - songID: 24
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 3e08ee1f3e9d15e49b87ce95feba60c6, type: 3}
+  - songID: 25
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 90ae79cd0e407754d86722b23f44042a, type: 3}
+  - songID: 26
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: c95addbae720ad84aa07d88bc2f2be88, type: 3}
+  - songID: 27
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 8cd7fb3649a32834296f5dfa7fc07a11, type: 3}
+  - songID: 28
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: f533a0df68879974fbefa1f336fca0ac, type: 3}
+  - songID: 29
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: c6f4c74e38463964a8aea58cfcffddd5, type: 3}
+  - songID: 30
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: ba225eac3ee951746b7e27f14c52a822, type: 3}
+  - songID: 31
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 3a9ff0cffabd4c3489a7d24fbf8876d4, type: 3}
+  - songID: 32
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 61e3c320fdae7a64199557bb330cd958, type: 3}
+  - songID: 33
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: a6a75de866f3c914197e180eddc26d96, type: 3}
+  - songID: 34
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 59f949bcf69c45a40bdb1be357718728, type: 3}
+  - songID: 35
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 4ada52e3bac63744a8b472d9ebf93537, type: 3}
+  - songID: 36
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 8cdb1f96b5f21c9439de1488b2996d39, type: 3}
+  - songID: 37
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 8e7b26ef169965a42b167fad9053d20f, type: 3}
+  - songID: 38
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 75572b0cfe0e219438544eb43c1adee5, type: 3}
+  - songID: 39
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: b67b63b2e44a2a6469add57e7d26a8e9, type: 3}
+  - songID: 40
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 0e2dd6a4ddee72446bfc3470daf10755, type: 3}
+  - songID: 41
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: eedb9d3bef9f31d42953bbb2e0838ba5, type: 3}
+  - songID: 42
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: fc5cc5827acf8444992c36d25c999b45, type: 3}
+  - songID: 43
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: b39638bb3d732254f904845dc5979dd6, type: 3}
+  - songID: 44
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: fdcaea60dbb3b864db89d4dad0b560da, type: 3}
+  - songID: 45
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 0c5eb33766ccd6d4db913475c597b0db, type: 3}
+  - songID: 46
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 07d2c13493c5c6d4ea74d7ef1298faaf, type: 3}
+  - songID: 47
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: fb66d7f2d36e78c4bb8dc294d9bfc33a, type: 3}
+  - songID: 48
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 916ac068e0213de469e3cdc463e479d3, type: 3}
+  - songID: 49
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 4585fe8b4bbd0c944855f655f9722529, type: 3}
+  - songID: 50
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 9572da9e604062a42bedec47c3472402, type: 3}
+  - songID: 51
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 03d2204418a03484e9189fa6d3d50083, type: 3}
+  - songID: 52
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 5e945d8a0137166468f35e1c0d8fa47d, type: 3}
+  - songID: 53
+    name: 
+    content: 
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 21300000, guid: 8abb4a8f285e51145a5bb79bd7dcdacf, type: 3}
+  folderPath: Assets/Card/Images

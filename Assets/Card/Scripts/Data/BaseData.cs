@@ -4,9 +4,7 @@ using UnityEngine;
 [Serializable]
 public class BaseData : MonoBehaviour {
     protected string prefString;
-
-   
-
+    
     public virtual void ResetData() { }
     protected virtual void CheckAppendData() { }
     public virtual void Init() {

@@ -5,7 +5,7 @@ using UnityEngine.Serialization;
 public class Constant
 {
     public static string DataKey_PlayerData = "player_data";
-    public static int countSong = 54;
+    public static int countSong = 68;
     public static int priceUnlockSong = 10;
 }
 
@@ -20,6 +20,11 @@ public class PlayerData : BaseData
     public string timeRegister;
 
     public bool isRate;
+
+    private void Start()
+    {
+        Validate();
+    }
 
     public void Rated()
     {
@@ -105,6 +110,21 @@ public class PlayerData : BaseData
         Save();
     }
 
+
+    private void Validate()
+    {
+        if (listMusical == null)
+        {
+            listMusical = new bool[Constant.countSong];
+        }
+
+        if (listMusical.Length < Constant.countSong)
+        {
+            Array.Resize(ref listMusical, Constant.countSong);
+        }
+        
+        Save();
+    }
 
     public void UnlockPack()
     {
